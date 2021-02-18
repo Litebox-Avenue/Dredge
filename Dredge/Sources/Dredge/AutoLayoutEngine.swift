@@ -8,7 +8,6 @@
 import Foundation
 import UIKit
 
-// MARK: - New Layout Engine *STARTED TO USE THIS FOR SIMPLICITY* *DO NOT DELETE* -
 public extension UIView {
     func layout(top: NSLayoutYAxisAnchor? = nil,
                 left: NSLayoutXAxisAnchor? = nil,

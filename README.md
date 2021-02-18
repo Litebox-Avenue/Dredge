@@ -30,7 +30,7 @@
   <h3 align="center">Dredge</h3>
 
   <p align="center">
-    Dredge the pathway with customer UI and Animations!
+    Dredge the pathway with Custom UI and Animations!
     <br />
     <a href="https://github.com/Litebox-Avenue/Dredge"><strong>Explore the docs »</strong></a>
     <br />

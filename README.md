@@ -23,27 +23,27 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Litebox-Avenue/Dredge">
+  <a href="https://github.com/Litebox-Avenue/PainlessUI">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Dredge</h3>
+  <h3 align="center">PainlessUI</h3>
 
   <p align="center">
     Dredge the pathway with Custom UI and Animations!
     <br />
-    <a href="https://github.com/Litebox-Avenue/Dredge"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Litebox-Avenue/PainlessUI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Litebox-Avenue/Dredge/issues">Report Bug</a>
+    <a href="https://github.com/Litebox-Avenue/PainlessUI/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Litebox-Avenue/Dredge/issues">Request Feature</a>
+    <a href="https://github.com/Litebox-Avenue/PainlessUI/issues">Request Feature</a>
   </p>
   
-  [![GitHub forks](https://img.shields.io/github/forks/Litebox-Avenue/Dredge?style=for-the-badge)](https://github.com/Litebox-Avenue/Dredge/network)
-  [![GitHub stars](https://img.shields.io/github/stars/Litebox-Avenue/Dredge?style=for-the-badge)](https://github.com/Litebox-Avenue/Dredge/stargazers)
-  [![GitHub issues](https://img.shields.io/github/issues/Litebox-Avenue/Dredge?style=for-the-badge)](https://github.com/Litebox-Avenue/Dredge/issues)
-  [![GitHub license](https://img.shields.io/github/license/Litebox-Avenue/Dredge?style=for-the-badge)](https://github.com/Litebox-Avenue/Dredge/blob/main/LICENSE)
+  [![GitHub forks](https://img.shields.io/github/forks/Litebox-Avenue/PainlessUI?style=for-the-badge)](https://github.com/Litebox-Avenue/PainlessUI/network)
+  [![GitHub stars](https://img.shields.io/github/stars/Litebox-Avenue/PainlessUI?style=for-the-badge)](https://github.com/Litebox-Avenue/PainlessUI/stargazers)
+  [![GitHub issues](https://img.shields.io/github/issues/Litebox-Avenue/PainlessUI?style=for-the-badge)](https://github.com/Litebox-Avenue/PainlessUI/issues)
+  [![GitHub license](https://img.shields.io/github/license/Litebox-Avenue/PainlessUI?style=for-the-badge)](https://github.com/Litebox-Avenue/PainlessUI/blob/main/LICENSE)
 
 </p>
 
@@ -81,13 +81,7 @@
 
 ## About The Project
 
-This project is used for the everyday developer that needs help with AutoLayout, Custom User Interface, and Animations. Dredge can be used by any level developer, regardless of skill level.
-
-When I first thought of the name "Dredge", I came across the definition online. 
-
-"Improving existing water features; reshaping land and water features to alter drainage, navigability.."
-
-When we look at the definition it relates to how we as developers constantly push and reshape are UI. Depending on are projects specific needs. We either want to make our application more user friendly or possibly just want to try for the best UI that is out there.
+This project is used for the everyday developer that needs help with AutoLayout, Custom User Interface, and Animations. PainlessUI can be used by any level developer, regardless of skill level.
 
 Hope you enjoy the project!
 
@@ -144,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/Litebox-Avenue/Dredge/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Litebox-Avenue/PainlessUI/issues) for a list of proposed features (and known issues).
 
 
 
@@ -154,9 +148,9 @@ See the [open issues](https://github.com/Litebox-Avenue/Dredge/issues) for a lis
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/DredgeBranchName`)
+2. Create your Feature Branch (`git checkout -b feature/PainlessBranchName`)
 3. Commit your Changes (`git commit -m 'Add some cool changes!'`)
-4. Push to the Branch (`git push origin feature/DredgeBranchName`)
+4. Push to the Branch (`git push origin feature/PainlessBranchName`)
 5. Open a Pull Request
 
 
@@ -177,7 +171,7 @@ Your Name - [@amclv0](https://twitter.com/amclv0)
 
 Email: clevelandm.aaron@gmail.com
 
-Project Link: [https://github.com/Litebox-Avenue/Dredge](https://github.com/Litebox-Avenue/Dredge)
+Project Link: [https://github.com/Litebox-Avenue/PainlessUI](https://github.com/Litebox-Avenue/PainlessUI)
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements

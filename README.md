@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Litebox-Avenue/PainlessUI">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">PainlessUI</h3>

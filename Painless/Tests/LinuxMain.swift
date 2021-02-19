@@ -1,7 +1,7 @@
 import XCTest
 
-import DredgeTests
+import PainlessTests
 
 var tests = [XCTestCaseEntry]()
-tests += DredgeTests.allTests()
+tests += PainlessTests.allTests()
 XCTMain(tests)

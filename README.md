@@ -30,7 +30,7 @@
   <h3 align="center">PainlessUI</h3>
 
   <p align="center">
-    Dredge the pathway with Custom UI and Animations!
+    The pathway with Custom UI and Animations!
     <br />
     <a href="https://github.com/Litebox-Avenue/PainlessUI"><strong>Explore the docs »</strong></a>
     <br />
